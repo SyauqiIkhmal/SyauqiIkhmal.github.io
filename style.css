@@ -1,0 +1,17 @@
+body {
+  min-height: 3000px;
+}
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+
+#Galery {
+  background-color: #e2edff;
+}
+.card-text {
+  text-align: center;
+}
+section {
+  padding-top: 5rem;
+}
