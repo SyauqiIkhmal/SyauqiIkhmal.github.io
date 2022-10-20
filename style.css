@@ -6,7 +6,8 @@ body {
   background-color: #e2edff;
 }
 
-#Galery {
+#project {
+  min-height: auto;
   background-color: #e2edff;
 }
 .card-text {
@@ -15,3 +16,4 @@ body {
 section {
   padding-top: 5rem;
 }
+
